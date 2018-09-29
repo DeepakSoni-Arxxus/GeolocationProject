@@ -32,28 +32,28 @@
     [
         "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 288,
             "modifiedTime": 1538229270938,
             "changeTime": 1538229270938,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1538228987316,
+            "changeTime": 1538228987316,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "size": 160,
-            "modifiedTime": 1538229500575,
-            "changeTime": 1538229500575,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -239,53 +239,53 @@
     [
         "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 17965,
             "modifiedTime": 1538229270983,
             "changeTime": 1538229270983,
-            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74"
         }
     ],
     [
         "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4565,
             "modifiedTime": 1538229270951,
             "changeTime": 1538229270951,
-            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98"
         }
     ],
     [
         "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4561,
             "modifiedTime": 1538229270999,
             "changeTime": 1538229270999,
-            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687"
         }
     ],
     [
         "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4901,
             "modifiedTime": 1538229271009,
             "changeTime": 1538229271009,
-            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08"
         }
     ],
     [
@@ -370,14 +370,14 @@
     [
         "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1538229055607,
+            "changeTime": 1538229055607,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
             "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1538229554181,
-            "changeTime": 1538229554181,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+            "state": "u"
         }
     ],
     [
@@ -474,287 +474,27 @@
     [
         "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1538229270940,
             "changeTime": 1538229270940,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
         }
     ],
     [
         "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1538229270940,
             "changeTime": 1538229270940,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 352,
-            "modifiedTime": 1538229500581,
-            "changeTime": 1538229500581,
-            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 352,
-            "modifiedTime": 1538229394382,
-            "changeTime": 1538229394382,
-            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1538229500580,
-            "changeTime": 1538229500580,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 339,
-            "modifiedTime": 1538229515954,
-            "changeTime": 1538229515954,
-            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1538229500577,
-            "changeTime": 1538229500577,
-            "contentHash": "ef58eb6c1b77fc51d93ac353bbade8d5567729b3"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 111,
-            "modifiedTime": 1538229538648,
-            "changeTime": 1538229538648,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountList.design",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountList.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1538229500581,
-            "changeTime": 1538229500581,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1538229500580,
-            "changeTime": 1538229500580,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 255,
-            "modifiedTime": 1538229527848,
-            "changeTime": 1538229527848,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1538229500578,
-            "changeTime": 1538229500578,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1538229500579,
-            "changeTime": 1538229500579,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1538229394381,
-            "changeTime": 1538229394381,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 120,
-            "modifiedTime": 1538229416268,
-            "changeTime": 1538229416269,
-            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1538229394378,
-            "changeTime": 1538229394378,
-            "contentHash": "087db03e2f9069783a4fdcfb8cba3ebe0379cfd1"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 168,
-            "modifiedTime": 1538229429637,
-            "changeTime": 1538229429637,
-            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1538229394382,
-            "changeTime": 1538229394382,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1538229394380,
-            "changeTime": 1538229394380,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1538229394378,
-            "changeTime": 1538229394378,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1538229394379,
-            "changeTime": 1538229394379,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Deepak/Desktop/Deepak/Workspace/DXTrail/my_sfdx_project/Geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1538229394380,
-            "changeTime": 1538229394380,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ]
 ]
